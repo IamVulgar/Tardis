@@ -8,7 +8,7 @@ $("#main").after(
 '<p class="fa fa-angle-right"></p>' +
 '</div>' +
 '<div class="scroll-images scrollable-x">' +
- '<a href="https://cytu.be/r/-Torchwood-"><img src="https://i.imgur.com/yrMk7Sc.jpg" class="kek" /></a>' +
+ '<a href="https://cytu.be/r/-Torchwood-"><img src="https://i.imgur.com/nsD5V69.jpg" class="kek" /></a>' +
 '<a href="https://cytu.be/r/TheFlash"><img src="https://i.imgur.com/FxVwMhM.jpg" class="kek" /></a>' +
  '<a href="https://cytu.be/r/TheArrow"><img src="https://i.imgur.com/O2RxYKE.jpg" class="kek" /></a>' +
  '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/B9tE5wH.jpg" class="kek" /></a>' +
